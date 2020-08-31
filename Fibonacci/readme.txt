@@ -1,0 +1,1 @@
+In order to test this, please run "node fibonacci.js" in the terminal. NodeJS must be installed on the machine where the script is run.
