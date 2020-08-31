@@ -12,6 +12,7 @@ After generating the files, simply run npm start/yarn start in the directory of 
 Please ensure that all the dependencies from 'package.json' are installed before running the application.
 
 Notes:
- -Full implementation with the functionality/features of the shopping basket has been made, but UI needs a lot of work (SCSS).
+
+ - Full implementation with the functionality/features of the shopping basket has been made, but UI needs a lot of work (SCSS).
  - In order to add/remove items from the basket, click on the left and right arrows which have the remove/add actions.
  - Extra: you can remove an item, irrespective of its quantity, by clicking on the far-right X button. 
