@@ -6,7 +6,7 @@ In order to test this, please run "node fibonacci.js" in the terminal. NodeJS mu
 
 #shopping-basket
 
-The application was made with create-react-app.
+The application was made with create-react-app and have also included redux to manage the component states.
 In order to run the application, clone the folder and generate the node modules that will also include the large React library folders.
 After generating the files, simply run npm start/yarn start in the directory of the application.
 Please ensure that all the dependencies from 'package.json' are installed before running the application.
