@@ -13,6 +13,6 @@ Please ensure that all the dependencies from 'package.json' are installed before
 
 Notes:
 
- - Full implementation with the functionality/features of the shopping basket has been made, but UI needs a lot of work (SCSS).
+ - Full implementation with the functionality/features of the shopping basket has been made, but UI needs a lot of work (required buttons need to be added and layout/positions fixes need to be made).
  - In order to add/remove items from the basket, click on the left and right arrows which have the remove/add actions.
  - Extra: you can remove an item, irrespective of its quantity, by clicking on the far-right X button. 
